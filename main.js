@@ -123,7 +123,7 @@ function checkCollition(){
         }
     })
 }
-
+//
 //
 //listeners BIEN
 
