@@ -124,7 +124,7 @@ function checkCollition(){
     })
 }
 //
-
+//
 //
 //listeners BIEN
 
